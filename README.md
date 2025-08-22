@@ -80,7 +80,3 @@ The project will be considered successful if it:
 
 ---
 
-## Concise Problem Statement (for Homepage)
-> Digital connectivity drives economic growth, education, and innovation.  
-> While East Africa has seen rapid expansion in mobile and internet services over the past two decades, adoption remains uneven, leaving rural and low-income populations underserved.  
-> This project uses open data to track connectivity trends, highlight disparities, and provide actionable insights to bridge the digital divide.
